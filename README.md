@@ -59,6 +59,3 @@ The system is designed to **manage patient prescription records efficiently** in
 * Auto-generated prescription notes.
 * A clean GUI for hospital staff.
 
----
-
-👉 Would you like me to also create a **database schema explanation** (the structure of the `hospital` table) so you can understand or recreate the database for this project?
